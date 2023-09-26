@@ -1,16 +1,6 @@
-# share
+# Receiving Shared Text from Other Apps in Flutter
+Flutter is a powerful framework, and with the right techniques, you can harness its capabilities beyond just UI design. [This tutorial](https://youtu.be/J8LIKet5O2E) focuses on how to set up your Flutter app to receive and process shared text from other applications on both Android and iOS devices.
 
-A new Flutter project.
+<img src="app.png" width="500" height="300">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[watch this video](https://youtu.be/J8LIKet5O2E)
